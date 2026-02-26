@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/IBM/Desktop/sem 4 spring 2026/Computer Architecture/Lab05-Git_MyrahHussain_RomaisaShazad/lab5_ca/lab5_ca.srcs/sources_1/new/fsm_counter.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module fsm_counter
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/IBM/Desktop/sem 4 spring 2026/Computer Architecture/Lab05-Git_MyrahHussain_RomaisaShazad/lab5_ca/lab5_ca.srcs/sim_1/new/tb_fsm.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_fsm
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/IBM/Desktop/sem 4 spring 2026/Computer Architecture/Lab05-Git_MyrahHussain_RomaisaShazad/lab5_ca/lab5_ca.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

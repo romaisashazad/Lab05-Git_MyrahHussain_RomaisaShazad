@@ -1,0 +1,16 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 0ed00260335143cabfc74f316dc3aae2 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_fsm_behav xil_defaultlib.tb_fsm xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/H.H/Downloads/lab5_ca_/lab5_ca final/lab5_ca.srcs/sources_1/new/fsm_counter.v" Line 1. Module fsm_counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/H.H/Downloads/lab5_ca_/lab5_ca final/lab5_ca.srcs/sources_1/new/fsm_counter.v" Line 1. Module fsm_counter doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.fsm_counter
+Compiling module xil_defaultlib.tb_fsm
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_fsm_behav
